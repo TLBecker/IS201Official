@@ -1,0 +1,50 @@
+.myHeader{
+    font-weight: bold;
+    background-color:black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+
+.myFooter{
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    bottom: 0px;
+    height: 40px;
+    font-size:20px;
+    padding:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+
+.myList{
+    color:black;
+    font-weight:bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+    
+}
+
+.navigation{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    background-color:darkgray;
+    padding:10px;
+}
+
+nav a{
+    color:black;
+}
+
+body{
+    border: 5px solid black;
+    margin: 50px;
+    background-color:lightgray;
+}
+
+.linkColor{
+    color:orange;
+}
